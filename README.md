@@ -18,3 +18,32 @@
 <br/>
 <h3><a href="https://drive.google.com/drive/folders/1MmFxmpfWWUFEuZZsWAS_IjfoR5r4XA3Wg">Notes</a>🚀</h3>
 <br/>
+
+<h3>lecture 51: Fourth Normal Form(4NF) | Complete DBMS Course </h3>
+<a href="https://youtu.be/uaqGSy-lhX4?feature=shared"><img src="https://github.com/user-attachments/assets/f5c5a12b-10c3-4293-9e90-ab075f2291ae"/></a>
+<br/>
+<h3><a href="https://drive.google.com/drive/folders/1URziOOUkWYrrHIESv4UcKiExGp0xhZY9?usp=sharing">Notes</a>🚀</h3>
+<br/>
+
+<h3>lecture 52: Fifth Normal Form(5NF) | Complete DBMS Course </h3>
+<a href="https://youtu.be/lHzdUY1xFyk?feature=shared"><img src="https://github.com/user-attachments/assets/d889de7b-a24c-4ee6-b8ca-51b198da7fcd"/>
+</a>
+<br/>
+<h3><a href="https://drive.google.com/drive/folders/1HwBIMgjuWWwlIERczYJtzRVfm2w3LAPn?usp=sharing">Notes</a>🚀</h3>
+<br/>
+
+<h3>lecture 52: Lossy and Lossless Decomposition | Complete DBMS Course </h3>
+<a href="https://youtu.be/5Lsx6uNGnEg?feature=shared"><img src="https://github.com/user-attachments/assets/a37148b3-0a99-40a8-800b-f0dbe8061277"/></a>
+<br/>
+<h3><a href="https://drive.google.com/drive/folders/1bJUwdUIiuIkzkC7cUBl7spnGCT-9Lyko?usp=sharing">Notes</a>🚀</h3>
+<br/>
+
+
+<h3>lecture 53: Dependency Preserving Decomposition | Complete DBMS Course </h3>
+<a href="https://youtu.be/5Lsx6uNGnEg?feature=shared"><img src="https://github.com/user-attachments/assets/5fe5f7c4-8fef-42c0-89c7-b17ce0e06ac0
+"/></a>
+<br/>
+<h3><a href="https://drive.google.com/drive/folders/1qS-nzcB9008xqVCLTY8ztPAMibIevpnP?usp=sharing">Notes</a>🚀</h3>
+<br/>
+
+
