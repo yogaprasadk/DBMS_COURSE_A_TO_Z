@@ -40,8 +40,7 @@
 
 
 <h3>lecture 54: Dependency Preserving Decomposition | Complete DBMS Course </h3>
-<a href="https://youtu.be/5Lsx6uNGnEg?feature=shared"><img src="https://github.com/user-attachments/assets/5fe5f7c4-8fef-42c0-89c7-b17ce0e06ac0
-"/></a>
+<a href="https://youtu.be/5Lsx6uNGnEg?feature=shared"><img src="https://github.com/user-attachments/assets/5fe5f7c4-8fef-42c0-89c7-b17ce0e06ac0"/></a>
 <br/>
 <h3><a href="https://drive.google.com/drive/folders/1qS-nzcB9008xqVCLTY8ztPAMibIevpnP?usp=sharing">Notes</a>🚀</h3>
 <br/>
