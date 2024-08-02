@@ -38,11 +38,45 @@
 <h3><a href="https://drive.google.com/drive/folders/1bJUwdUIiuIkzkC7cUBl7spnGCT-9Lyko?usp=sharing">Notes</a>🚀</h3>
 <br/>
 
-
 <h3>lecture 54: Dependency Preserving Decomposition | Complete DBMS Course </h3>
 <a href="https://youtu.be/5Lsx6uNGnEg?feature=shared"><img src="https://github.com/user-attachments/assets/5fe5f7c4-8fef-42c0-89c7-b17ce0e06ac0"/></a>
 <br/>
 <h3><a href="https://drive.google.com/drive/folders/1qS-nzcB9008xqVCLTY8ztPAMibIevpnP?usp=sharing">Notes</a>🚀</h3>
 <br/>
 
+<h3>Lecture 55: How to find the highest Normal Form | Complete DBMS Course</h3>
+<a href="https://youtu.be/YLZQRf5vtC8?si=TAJ_3FpaAZBRaKPj"><img src="https://github.com/user-attachments/assets/38bf05f9-d16e-4a71-b4af-05b56424eaf6"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1Bv1aiHYJS7RbJeAByu-1S8zf_UDJH5ra/view">Notes</a>🚀</h3>
+<br/>
+
+<h3>Lecture 56: How to normalize a table | Complete DBMS Course</h3>
+<a href="https://youtu.be/-59LdeL22uk?si=wmQNJeXDpUxxKwbv"><img src="https://github.com/user-attachments/assets/fb505ed9-12f5-4d67-8160-87fb94a5da84"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1YoM1I3Slc5JCFZUA3Q3fe93q4wAY4RgO/view">Notes</a>🚀</h3>
+<br/>
+
+<h3>L57 : Equivalence of Functional Dependency | Complete DBMS Course</h3>
+<a href="https://youtu.be/fJmVbpml26Y?si=-dNS8_90bJ8tfD2k"><img src="https://github.com/user-attachments/assets/edf85e4c-30bb-44c3-8474-442050df76ef"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1LWM6uD3goJyxvMvWhw6z3RqM7Vcjgc_N/view">Notes</a>🚀</h3>
+<br/>
+
+<h3>Lecture 58: How to find the highest Normal Form | Complete DBMS Course</h3>
+<a href="https://youtu.be/hPVcgn9IbyE?si=XY0b3lCGKLtrQWRQ"><img src="https://github.com/user-attachments/assets/de6008df-1387-4400-882a-891ab23da271"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1G8D-c4Nucrj1oMpCKOWx5Gw51A_jTVI1/view">Notes</a>🚀</h3>
+<br/>
+
+<h3>Lecture 59: Transaction and Concurrency Control | Complete DBMS Course</h3>
+<a href="https://youtu.be/jj0wNVZFrjc?si=8tF2xVZbQnFySx_i"><img src="https://github.com/user-attachments/assets/2ffcc67a-cf26-4de6-8f5f-0b9c46a0551a"/></a>
+<br/>
+<h3><a href="https://drive.google.com/drive/folders/1AA8f1iYXv3toOEX7hvypWXVMt0ubjDxe">Notes</a>🚀</h3>
+<br/>
+
+<h3>Lecture 60: How to find the highest Normal Form | Complete DBMS Course</h3>
+<a href="https://youtu.be/V-1lY1JWhcY?si=PNxuczrANs5j_jHq"><img src="https://github.com/user-attachments/assets/c706167f-a577-4cf1-bbf1-005e45afde30"/></a>
+<br/>
+<h3><a href="https://drive.google.com/drive/folders/1-D_My9AA6D2m3otA7gMrCRgJoQvvt2DW">Notes</a>🚀</h3>
+<br/>
 
