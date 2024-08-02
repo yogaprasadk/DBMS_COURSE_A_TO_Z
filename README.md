@@ -74,7 +74,7 @@
 <h3><a href="https://drive.google.com/drive/folders/1AA8f1iYXv3toOEX7hvypWXVMt0ubjDxe">Notes</a>🚀</h3>
 <br/>
 
-<h3>Lecture 60: How to find the highest Normal Form | Complete DBMS Course</h3>
+<h3>Lecture 60: ACID Properties | Complete DBMS Course</h3>
 <a href="https://youtu.be/V-1lY1JWhcY?si=PNxuczrANs5j_jHq"><img src="https://github.com/user-attachments/assets/c706167f-a577-4cf1-bbf1-005e45afde30"/></a>
 <br/>
 <h3><a href="https://drive.google.com/drive/folders/1-D_My9AA6D2m3otA7gMrCRgJoQvvt2DW">Notes</a>🚀</h3>
