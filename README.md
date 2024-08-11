@@ -80,3 +80,9 @@
 <h3><a href="https://drive.google.com/drive/folders/1-D_My9AA6D2m3otA7gMrCRgJoQvvt2DW">Notes</a>🚀</h3>
 <br/>
 
+<h3>Lecture 61: Isolation levels and its type | Complete DBMS Course</h3>
+<a href="https://youtu.be/8aOAgyOw420?si=YZu1bBTCEdpzMI9P"><img src="https://github.com/user-attachments/assets/9a389ebb-d7e5-441c-a08e-f8840b73dbc1"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1PUv4nI9CxacQa5JMpe2z3pWrxdVC-GD9/view?pli=1">Notes</a>🚀</h3>
+<br/>
+
