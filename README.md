@@ -1,3 +1,6 @@
+<h3>Lecture 1: Data and Information | Complete DBMS Course</h3>
+<a href="https://youtu.be/FMfYhRaoZZM?si=YpQ2Dd0E3n7rmgCh" target="_blank"><img src="https://github.com/user-attachments/assets/50f5db28-0542-4bb0-a7e6-969bec7762b1"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1vFGIXQot5ObtaeBGekBuKyDUrBmKCAyp" target="_blank">Notes</a>🚀</h3>
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
 <br/>
