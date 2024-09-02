@@ -4,12 +4,17 @@
 <h3><a href="https://drive.google.com/drive/folders/1vFGIXQot5ObtaeBGekBuKyDUrBmKCAyp" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 2 -->
-<h3>Lecture 2: Database and File System
+<h3>Lecture 2: Database and File System</h3>
 <a href="https://youtu.be/7TcBnuk7lYc?si=Ce7nMMTmsB14YtNg" target="blank"><img src="https://github.com/user-attachments/assets/9d9f2845-87b6-4569-8123-3a2e98e4aa3a"/></a>
 <h3><a href="https://drive.google.com/drive/folders/10AzZAofI2QRAw9QpiFVKamD-1ErqLJT2" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 3 -->
+<h3>Lecture 3:What is DBMS and its Applications | Complete DBMS Course</h3>
+<a href="https://youtu.be/wulV-eIu9dM?si=CcNVLEfwrm5SFRM2" target="_blank"><img src="https://github.com/user-attachments/assets/95ab8a87-f291-4335-97c7-1679c34ad889"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1FYiAWV0MP54AAJkhdiaR-4Lj3wVsTRf4" target="_blank"></a>🚀</h3>
 
+<!-- lecture 4 -->
+<h3>Lecture 4: Types of database </h3>
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
 <br/>
