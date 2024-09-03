@@ -11,7 +11,7 @@
 <!-- lecture 3 -->
 <h3>Lecture 3:What is DBMS and its Applications | Complete DBMS Course</h3>
 <a href="https://youtu.be/wulV-eIu9dM?si=CcNVLEfwrm5SFRM2" target="_blank"><img src="https://github.com/user-attachments/assets/95ab8a87-f291-4335-97c7-1679c34ad889"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1FYiAWV0MP54AAJkhdiaR-4Lj3wVsTRf4" target="_blank"></a>🚀</h3>
+<h3><a href="https://drive.google.com/drive/folders/1FYiAWV0MP54AAJkhdiaR-4Lj3wVsTRf4" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 4 -->
 <h3>Lecture 4: Types of database </h3>
