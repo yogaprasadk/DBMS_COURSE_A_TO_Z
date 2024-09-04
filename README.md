@@ -15,6 +15,19 @@
 
 <!-- lecture 4 -->
 <h3>Lecture 4: Types of database </h3>
+<a href="https://youtu.be/ln-JWRw_hFs?si=tHy42lr4eMaNW-Nj"><img src="https://github.com/user-attachments/assets/bbc5b6e9-ce70-4ac0-9272-5c6a445e7da0"></a>
+<h3><a href="https://drive.google.com/drive/folders/1tVKoJ8ruh9kfwweYG9vJRorclnS_O4wr" target="_blank">Notes</a></h3>
+
+<!-- lecture 5 -->
+<h3>Lecture 5: Need, Advantages & Disadvantages Of DBMS </h3>
+<a href="https://youtu.be/T3at61GvUo0?si=XxW_ncymL1uGhQDK"><img src="https://github.com/user-attachments/assets/196ae0de-7071-42f6-b93d-80542d7f3bea"></a>
+<h3><a href="https://drive.google.com/drive/folders/11nWm_MX6xjmgI9fr0piN3FzuSaaNwlVx" target="_blank">Notes</a></h3>
+
+<!-- lecture 6 -->
+<h3>Lecture 6: DBMS Architecture & Its Types </h3>
+<a href="https://youtu.be/g-2xEyo9TQg?si=2e11MIAp3eNHnmNF"><img src="https://github.com/user-attachments/assets/5f226d3c-4905-4f0d-a072-a0fddd5a2a66"></a>
+<h3><a href="https://drive.google.com/file/d/13uZ-dHhND7WZPFIPknCfWyINOw2QCwgH/view" target="_blank">Notes</a></h3>
+
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
 <br/>
