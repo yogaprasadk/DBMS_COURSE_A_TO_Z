@@ -28,6 +28,28 @@
 <a href="https://youtu.be/g-2xEyo9TQg?si=2e11MIAp3eNHnmNF"><img src="https://github.com/user-attachments/assets/5f226d3c-4905-4f0d-a072-a0fddd5a2a66"></a>
 <h3><a href="https://drive.google.com/file/d/13uZ-dHhND7WZPFIPknCfWyINOw2QCwgH/view" target="_blank">Notes</a></h3>
 
+
+<!-- lecture 7 -->
+<h3>Lecture 7: Schema & instance & Its Types </h3>
+<a href="https://youtu.be/6FVjbN-Bd1Q?si=PkgU2CZUCHCG0jVZ"><img src="https://github.com/user-attachments/assets/2688e8ce-f475-4303-bb8a-4b73c997c287"></a>
+<h3><a href="https://drive.google.com/drive/folders/1-8jym2pGQcFxOukYRgzKTveDcEimZRFD" target="_blank">Notes</a></h3>
+
+<!-- lecture 8 -->
+<h3>Lecture 8: 3-Tier Architecture </h3>
+<a href="https://youtu.be/UOyA8TSE7l4?si=442zNgKFIecAam6l"><img src="https://github.com/user-attachments/assets/799ffa36-ccb0-41c6-a0b0-946e1c29eb5b"></a>
+<h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2010%203%20tier%20Architecture/dbms%20series.pdf" target="_blank">Notes</a></h3>
+
+<!-- lecture 9 -->
+<h3>Lecture 9: Data Models and Its Type | Complete DBMS Course </h3>
+<a href="https://youtu.be/RNl9ZIDzDG0?si=ts6Zr0Q4xI8eT574"><img src="https://github.com/user-attachments/assets/206d87a7-2147-4375-9ebb-db18030e5153"></a>
+<h3><a href="https://github.com/riti2409/Dbms_Series/tree/main/Lec-%2011%20Data%20model" target="_blank">Notes</a></h3>
+
+<!-- lecture 10 -->
+<h3>Lecture 10: Data Abstraction & Its level | Complete DBMS Course </h3>
+<a href="https://youtu.be/WYBdtOQwmSc?si=7yKgl5CKctktju_Q"><img src="https://github.com/user-attachments/assets/07066c3e-b633-4f4c-a079-c98d19dd947e"></a>
+<h3><a href="https://drive.google.com/drive/folders/1GnYVY0PqdFM3EJQzOcEQE4kqGUpfpWsM" target="_blank">Notes</a></h3>
+
+
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
 <br/>
