@@ -49,6 +49,26 @@
 <a href="https://youtu.be/WYBdtOQwmSc?si=7yKgl5CKctktju_Q"><img src="https://github.com/user-attachments/assets/07066c3e-b633-4f4c-a079-c98d19dd947e"></a>
 <h3><a href="https://drive.google.com/drive/folders/1GnYVY0PqdFM3EJQzOcEQE4kqGUpfpWsM" target="_blank">Notes</a></h3>
 
+<!-- Lecture 11 -->
+<h3>Lecture 11: Essential Components of table | Complete DBMS Course</h3>
+<a href="https://youtu.be/tzcK1wWQKlU?si=awbntZpZIoa0K6ge"><img src="https://github.com/user-attachments/assets/0cd40f82-fb6e-424a-96b8-1b565b715f9b"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1zEnfEdVp-0SU4WvyFDC4nV6ha6enWQzL" target="_blank">Notes</a></h3>
+
+<!-- lecture 12-->
+<h3>Lecture 12: Views in DBMS | Complete DBMS Course</h3>
+<a href="https://youtu.be/HlkPTVJ27SQ?si=5aF_KPeNl6fX1PJb"><img src="https://github.com/user-attachments/assets/bed69808-2292-4bc7-a0f7-a46f963ee356"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1xtoMSjoj7188hqgWapznkBvwAUC5eu5T">Notes</a></h3>
+
+<!--Lecture 13-->
+<h3>Lecure 13:  Keys and Its Type in DBMS | Complete DBMS Course</h3>
+<a href="https://www.youtube.com/watch?v=Os8ODF7wFC0&list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq&index=16&pp=iAQB"><img src="https://github.com/user-attachments/assets/1eaedb07-e429-408e-9bfd-d903976c5e45"/></a>
+<h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2015%20keys%20and%20its%20types/dbms%20series.pdf">NOtes</a></h3>
+
+<!-- Lecture 14 -->
+<h3>Lecture 14:  Referential integrity in DBMS  </h3>
+<a href="https://youtu.be/aek361JzYv0?si=QMrRbM61zJXmv27V"><img src="https://github.com/user-attachments/assets/66ce4db2-3681-4f70-b1cf-18deaf41eb4f"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1v6bTGPhlWiGu9udDjXCPucgFT9x_-T7z">Notes</a></h3>
+
 
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
