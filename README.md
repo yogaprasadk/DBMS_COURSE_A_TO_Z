@@ -69,6 +69,25 @@
 <a href="https://youtu.be/aek361JzYv0?si=QMrRbM61zJXmv27V"><img src="https://github.com/user-attachments/assets/66ce4db2-3681-4f70-b1cf-18deaf41eb4f"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1v6bTGPhlWiGu9udDjXCPucgFT9x_-T7z">Notes</a></h3>
 
+<!-- Lecture 15-->
+<h3>Lecture 15: Insert, Update, Delete from Referenced table DBMS | Complete DBMS Course</h3>
+<a href="https://youtu.be/NBNFf_NjMHk?si=CVoXSeXwQvwHnJ_G"><img src="https://github.com/user-attachments/assets/023a691a-0459-4e23-a359-d953e9833542"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1ff8FVpKfs8shEbO7glAmSF_3CZXwMsHT">Notes</a></h3>
+
+<!-- Lecture 16 -->
+<h3> Lecture 16: Insert, Update, Delete from Referencing table DBMS</h3>
+<a href="https://youtu.be/rheuSfqgnqo?si=FB8IVUo3OgG4GXid"><img src="https://github.com/user-attachments/assets/9900651c-b239-4b8b-9551-678f6435fa9f"/></a>
+<h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2018%20Insert%20%7C%20%20Update%20%7C%20Delete%20from%20Refrencing%20table/dbms%20series%20(2).pdf"></a></h3>
+
+<!-- Lecture 17-->
+<h3> Lecture 17: Integrity Constraints & its types in DBMS</h3>
+<a href="https://youtu.be/rheuSfqgnqo?si=FB8IVUo3OgG4GXid"><img src="https://github.com/user-attachments/assets/5db8c6e5-9555-44e6-963c-e2e8292c55a9"/></a>
+<h3><a href="https://github.com/riti2409/Dbms_Series/tree/main/Lec-%2019%20Integrity%20Constraints%20in%20DBMS">Notes</a></h3>
+
+<!-- Lecture 18-->
+<h3> Lecture 18: Super Key</h3>
+<a href="https://youtu.be/hGt1qDaTVfY?si=FilgsWTqPQlx5vtN"><img src="https://github.com/user-attachments/assets/9db50400-90d6-45c6-bcb4-b9a83e4f9ffd"/></a>
+<h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2020%20Super%20key/dbms%20series.pdf">Notes</a></h3>
 
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
