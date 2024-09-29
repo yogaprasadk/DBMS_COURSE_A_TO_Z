@@ -92,7 +92,7 @@
 <!-- Lecture 19-->
 <h3> Lecture 19: ER Model</h3>
 <a href="https://youtu.be/iejgUcZpaq8?si=ASXibVyd7az1nPbV"><img src="https://github.com/user-attachments/assets/ea51e6a8-5d8d-45b0-81e4-352ae5ce605f"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK?usp=sharing">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1KmI8oT2GmebHN1HhsRZcoZM7N-er3HKP">Notes</a></h3>
 
 <!-- lecture 20 -->
 <h3> Lecture 20: Entity and it typres</h3>
