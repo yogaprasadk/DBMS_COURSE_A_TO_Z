@@ -37,12 +37,12 @@
 <!-- lecture 8 -->
 <h3>Lecture 8: 3-Tier Architecture </h3>
 <a href="https://youtu.be/UOyA8TSE7l4?si=442zNgKFIecAam6l"><img src="https://github.com/user-attachments/assets/799ffa36-ccb0-41c6-a0b0-946e1c29eb5b"></a>
-<h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2010%203%20tier%20Architecture/dbms%20series.pdf" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1drz-YiEHi9S7h_RWgCadHkNIF3ITpZIp" target="_blank">Notes</a></h3>
 
 <!-- lecture 9 -->
 <h3>Lecture 9: Data Models and Its Type | Complete DBMS Course </h3>
 <a href="https://youtu.be/RNl9ZIDzDG0?si=ts6Zr0Q4xI8eT574"><img src="https://github.com/user-attachments/assets/206d87a7-2147-4375-9ebb-db18030e5153"></a>
-<h3><a href="https://github.com/riti2409/Dbms_Series/tree/main/Lec-%2011%20Data%20model" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1AzNvypLFrAQQIQRvNgJ_QiN1ObBMEuoU" target="_blank">Notes</a></h3>
 
 <!-- lecture 10 -->
 <h3>Lecture 10: Data Abstraction & Its level | Complete DBMS Course </h3>
@@ -62,7 +62,7 @@
 <!--Lecture 13-->
 <h3>Lecure 13:  Keys and Its Type in DBMS | Complete DBMS Course</h3>
 <a href="https://www.youtube.com/watch?v=Os8ODF7wFC0&list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq&index=16&pp=iAQB"><img src="https://github.com/user-attachments/assets/1eaedb07-e429-408e-9bfd-d903976c5e45"/></a>
-<h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2015%20keys%20and%20its%20types/dbms%20series.pdf">NOtes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1210xCM05GLHKco2Pp80LjI7apR0kRohC">NOtes</a></h3>
 
 <!-- Lecture 14 -->
 <h3>Lecture 14:  Referential integrity in DBMS  </h3>
@@ -77,17 +77,17 @@
 <!-- Lecture 16 -->
 <h3> Lecture 16: Insert, Update, Delete from Referencing table DBMS</h3>
 <a href="https://youtu.be/rheuSfqgnqo?si=FB8IVUo3OgG4GXid"><img src="https://github.com/user-attachments/assets/9900651c-b239-4b8b-9551-678f6435fa9f"/></a>
-<h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2018%20Insert%20%7C%20%20Update%20%7C%20Delete%20from%20Refrencing%20table/dbms%20series%20(2).pdf"></a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1bmpR_9IWj33pviTC2l5s9RxM3Y-fRL0F">Notes</a></h3>
 
 <!-- Lecture 17-->
 <h3> Lecture 17: Integrity Constraints & its types in DBMS</h3>
-<a href="https://youtu.be/rheuSfqgnqo?si=FB8IVUo3OgG4GXid"><img src="https://github.com/user-attachments/assets/5db8c6e5-9555-44e6-963c-e2e8292c55a9"/></a>
-<h3><a href="https://github.com/riti2409/Dbms_Series/tree/main/Lec-%2019%20Integrity%20Constraints%20in%20DBMS">Notes</a></h3>
+<a href="https://youtu.be/gQkzvkmt4Jw?si=WV9y0xsWYsen9O_P"><img src="https://github.com/user-attachments/assets/5db8c6e5-9555-44e6-963c-e2e8292c55a9"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1r3Q4lMeqVbSFlBWE35H1lKWZWFcUdMCA">Notes</a></h3>
 
 <!-- Lecture 18-->
 <h3> Lecture 18: Super Key</h3>
 <a href="https://youtu.be/hGt1qDaTVfY?si=FilgsWTqPQlx5vtN"><img src="https://github.com/user-attachments/assets/9db50400-90d6-45c6-bcb4-b9a83e4f9ffd"/></a>
-<h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2020%20Super%20key/dbms%20series.pdf">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/128LskePgLJBZ6ybRpMp_ChZhJLs_kbUG">Notes</a></h3>
 
 <!-- Lecture 19-->
 <h3> Lecture 19: ER Model</h3>
