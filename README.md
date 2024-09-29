@@ -89,6 +89,16 @@
 <a href="https://youtu.be/hGt1qDaTVfY?si=FilgsWTqPQlx5vtN"><img src="https://github.com/user-attachments/assets/9db50400-90d6-45c6-bcb4-b9a83e4f9ffd"/></a>
 <h3><a href="https://github.com/riti2409/Dbms_Series/blob/main/Lec-%2020%20Super%20key/dbms%20series.pdf">Notes</a></h3>
 
+<!-- Lecture 19-->
+<h3> Lecture 19: ER Model</h3>
+<a href="https://youtu.be/iejgUcZpaq8?si=ASXibVyd7az1nPbV"><img src="https://github.com/user-attachments/assets/ea51e6a8-5d8d-45b0-81e4-352ae5ce605f"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK?usp=sharing">Notes</a></h3>
+
+<!-- lecture 20 -->
+<h3> Lecture 20: Entity and it typres</h3>
+<a href="https://youtu.be/Dfjsu6yVn80?si=kMfVWdeqi0Ewdwql"><img src="https://github.com/user-attachments/assets/78c774c7-f627-45a8-8a5d-ba882cd7a92c"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1HoUoq3PCd7RjvivtMVYg7d0uaanPL7z4">NOtes</a></h3>
+
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
 <br/>
