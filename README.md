@@ -95,9 +95,39 @@
 <h3><a href="https://drive.google.com/drive/folders/1KmI8oT2GmebHN1HhsRZcoZM7N-er3HKP">Notes</a></h3>
 
 <!-- lecture 20 -->
-<h3> Lecture 20: Entity and it typres</h3>
+<h3> Lecture 20: Entity and it types</h3>
 <a href="https://youtu.be/Dfjsu6yVn80?si=kMfVWdeqi0Ewdwql"><img src="https://github.com/user-attachments/assets/78c774c7-f627-45a8-8a5d-ba882cd7a92c"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1HoUoq3PCd7RjvivtMVYg7d0uaanPL7z4">NOtes</a></h3>
+
+<!-- lecture 21-->
+<h3> Lecture 21: Attributes and it types</h3>
+<a href="https://youtu.be/Y-nPMQG9Nyc?si=C8XBMePmpPNDQURx"><img src="https://github.com/user-attachments/assets/b9f611c0-020e-478e-b526-fa4c6f36fb96"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1Egb1vEwG6Kyzg11asrWRl8s3XrHiQNLk">Notes</a></h3>
+
+<!-- lecture 22 -->
+<h3> Lecture 22: Relationship and it types</h3>
+<a href="https://youtu.be/DhOhst8FBKE?si=uvRyEAAMZtyNIiib"><img src="https://github.com/user-attachments/assets/308bc1db-eae0-4ba5-8304-b2ab3e53f833"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1fPC6Ai2dgyqTiqiYyQDtmVvHnjGFsHe9">Notes</a></h3>
+
+<!-- Lecure 23 -->
+<h3> Lecture 23: ONe to One Relatioship</h3>
+<a href="https://youtu.be/yXhiZFBwyIk?si=WxJvxPq3l5AaJrSV"><img src="https://github.com/user-attachments/assets/cacc0c14-b795-47b0-9d5f-143c82be607c"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc"></a></h3>
+
+<!-- Lecture 24 -->
+<h3>Lecture 24: One to many Relationship</h3>
+<a href="https://youtu.be/2shjI2XauHM?si=YNYx3bcTSBgmiJwr"><img src="https://github.com/user-attachments/assets/b07df8e9-fec8-497e-8fd5-10b6da7ed86c"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a></h3>
+
+<!-- Lecture 25: -->
+<h3>Lecture 25: Many to one Realtionship</h3>
+<a href="https://youtu.be/2bGXPbxC63Y?si=xSTXRZysLVENMBoS"><img src="https://github.com/user-attachments/assets/b60e21fa-d1cc-4c1c-b65f-faaff0bc16c8"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a></h3>
+
+<!-- Lecture 26: -->
+<h3>Lecture 26: many to many Realtionship</h3>
+<a href="https://youtu.be/XsWub7hcV_c?si=PtL_DH3gJO3VNIaV"><img src="https://github.com/user-attachments/assets/c23f40e7-0e55-4353-9634-6440b2f85ff6"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a></h3>
 
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
