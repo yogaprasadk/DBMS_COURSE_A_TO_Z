@@ -129,6 +129,33 @@
 <a href="https://youtu.be/XsWub7hcV_c?si=PtL_DH3gJO3VNIaV"><img src="https://github.com/user-attachments/assets/c23f40e7-0e55-4353-9634-6440b2f85ff6"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a></h3>
 
+<!-- Lecture 27: -->
+<h3>Lecture 27: Participation Constraints</h3>
+<a href="https://youtu.be/Y6mcrB_z0WQ?si=mb0Z5dO9HqITtJw5"><img src="https://github.com/user-attachments/assets/7440cd48-f57d-4dc1-b6be-a91feda1476f"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1NfC67XygLOX6uYWQuukktuYkkrObccwO">Notes</a></h3>
+
+<!-- Lecture 28: -->
+<h3>Lecture 28: Extended ER Features </h3>
+<a href="https://youtu.be/cSibHgsiw54?si=hHGJQoCkLRD9TEDk"><img src="https://github.com/user-attachments/assets/3f58a6fc-e9e8-4a81-818b-e5da1d474276"/></a>
+<h3><a href="https://drive.google.com/file/d/1xTUnjEWQV34prGLxAWZL67te0xBTEMgN/view">Notes</a></h3>
+
+<!-- Lecture 29: -->
+<h3>Lecture 29: Specialization</h3>
+<a href="https://youtu.be/OZrc1jQ7NfQ?si=7QD1D-6TFxEcq-vk"><img src="https://github.com/user-attachments/assets/71c99a50-7b60-4b21-b8eb-79c152bc412d"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1KrSBr0wH0Umt_9PdA0GKlSznogkTfJjK">Notes</a></h3>
+
+<!-- Lecture 30: -->
+<h3>Lecture 30: Genaralization</h3>
+<a href="https://youtu.be/qCGv9l-HCXg?si=QZLDji2pMo8Ud8t-"><img src="https://github.com/user-attachments/assets/2d4eecf2-5637-471b-a0d2-c563273dbffc"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1KrSBr0wH0Umt_9PdA0GKlSznogkTfJjK">Notes</a></h3>
+
+
+<!-- Lecture 31: -->
+<h3>Lecture 31: Aggregation</h3>
+<a href="https://youtu.be/9-sA5Zm8b78?si=0KP4EFPNAAssRNiiV"><img src="https://github.com/user-attachments/assets/8a6f6aca-ff32-4975-b915-daa5ba1dd602"/></a>
+<h3><a href=https://drive.google.com/drive/folders/1oEhd40F91whBPZEVAKw5O1Wg2ZfrbJop">Notes</a></h3>
+
+
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
 <br/>
