@@ -16,17 +16,17 @@
 <!-- lecture 4 -->
 <h3>Lecture 4: Types of database </h3>
 <a href="https://youtu.be/ln-JWRw_hFs?si=tHy42lr4eMaNW-Nj"><img src="https://github.com/user-attachments/assets/bbc5b6e9-ce70-4ac0-9272-5c6a445e7da0"></a>
-<h3><a href="https://drive.google.com/drive/folders/1tVKoJ8ruh9kfwweYG9vJRorclnS_O4wr" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1tVKoJ8ruh9kfwweYG9vJRorclnS_O4wr" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 5 -->
 <h3>Lecture 5: Need, Advantages & Disadvantages Of DBMS </h3>
 <a href="https://youtu.be/T3at61GvUo0?si=XxW_ncymL1uGhQDK"><img src="https://github.com/user-attachments/assets/196ae0de-7071-42f6-b93d-80542d7f3bea"></a>
-<h3><a href="https://drive.google.com/drive/folders/11nWm_MX6xjmgI9fr0piN3FzuSaaNwlVx" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/11nWm_MX6xjmgI9fr0piN3FzuSaaNwlVx" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 6 -->
 <h3>Lecture 6: DBMS Architecture & Its Types </h3>
 <a href="https://youtu.be/g-2xEyo9TQg?si=2e11MIAp3eNHnmNF"><img src="https://github.com/user-attachments/assets/5f226d3c-4905-4f0d-a072-a0fddd5a2a66"></a>
-<h3><a href="https://drive.google.com/file/d/13uZ-dHhND7WZPFIPknCfWyINOw2QCwgH/view" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/file/d/13uZ-dHhND7WZPFIPknCfWyINOw2QCwgH/view" target="_blank">Notes</a>🚀</h3>
 
 
 <!-- lecture 7 -->
@@ -37,87 +37,87 @@
 <!-- lecture 8 -->
 <h3>Lecture 8: 3-Tier Architecture </h3>
 <a href="https://youtu.be/UOyA8TSE7l4?si=442zNgKFIecAam6l"><img src="https://github.com/user-attachments/assets/799ffa36-ccb0-41c6-a0b0-946e1c29eb5b"></a>
-<h3><a href="https://drive.google.com/drive/folders/1drz-YiEHi9S7h_RWgCadHkNIF3ITpZIp" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1drz-YiEHi9S7h_RWgCadHkNIF3ITpZIp" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 9 -->
 <h3>Lecture 9: Data Models and Its Type | Complete DBMS Course </h3>
 <a href="https://youtu.be/RNl9ZIDzDG0?si=ts6Zr0Q4xI8eT574"><img src="https://github.com/user-attachments/assets/206d87a7-2147-4375-9ebb-db18030e5153"></a>
-<h3><a href="https://drive.google.com/drive/folders/1AzNvypLFrAQQIQRvNgJ_QiN1ObBMEuoU" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1AzNvypLFrAQQIQRvNgJ_QiN1ObBMEuoU" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 10 -->
 <h3>Lecture 10: Data Abstraction & Its level | Complete DBMS Course </h3>
 <a href="https://youtu.be/WYBdtOQwmSc?si=7yKgl5CKctktju_Q"><img src="https://github.com/user-attachments/assets/07066c3e-b633-4f4c-a079-c98d19dd947e"></a>
-<h3><a href="https://drive.google.com/drive/folders/1GnYVY0PqdFM3EJQzOcEQE4kqGUpfpWsM" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1GnYVY0PqdFM3EJQzOcEQE4kqGUpfpWsM" target="_blank">Notes</a>🚀</h3>
 
 <!-- Lecture 11 -->
 <h3>Lecture 11: Essential Components of table | Complete DBMS Course</h3>
 <a href="https://youtu.be/tzcK1wWQKlU?si=awbntZpZIoa0K6ge"><img src="https://github.com/user-attachments/assets/0cd40f82-fb6e-424a-96b8-1b565b715f9b"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1zEnfEdVp-0SU4WvyFDC4nV6ha6enWQzL" target="_blank">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1zEnfEdVp-0SU4WvyFDC4nV6ha6enWQzL" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 12-->
 <h3>Lecture 12: Views in DBMS | Complete DBMS Course</h3>
 <a href="https://youtu.be/HlkPTVJ27SQ?si=5aF_KPeNl6fX1PJb"><img src="https://github.com/user-attachments/assets/bed69808-2292-4bc7-a0f7-a46f963ee356"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1xtoMSjoj7188hqgWapznkBvwAUC5eu5T">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1xtoMSjoj7188hqgWapznkBvwAUC5eu5T">Notes</a>🚀</h3>
 
 <!--Lecture 13-->
 <h3>Lecure 13:  Keys and Its Type in DBMS | Complete DBMS Course</h3>
 <a href="https://www.youtube.com/watch?v=Os8ODF7wFC0&list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq&index=16&pp=iAQB"><img src="https://github.com/user-attachments/assets/1eaedb07-e429-408e-9bfd-d903976c5e45"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1210xCM05GLHKco2Pp80LjI7apR0kRohC">NOtes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1210xCM05GLHKco2Pp80LjI7apR0kRohC">NOtes</a>🚀</h3>
 
 <!-- Lecture 14 -->
 <h3>Lecture 14:  Referential integrity in DBMS  </h3>
 <a href="https://youtu.be/aek361JzYv0?si=QMrRbM61zJXmv27V"><img src="https://github.com/user-attachments/assets/66ce4db2-3681-4f70-b1cf-18deaf41eb4f"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1v6bTGPhlWiGu9udDjXCPucgFT9x_-T7z">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1v6bTGPhlWiGu9udDjXCPucgFT9x_-T7z">Notes</a>🚀</h3>
 
 <!-- Lecture 15-->
 <h3>Lecture 15: Insert, Update, Delete from Referenced table DBMS | Complete DBMS Course</h3>
 <a href="https://youtu.be/NBNFf_NjMHk?si=CVoXSeXwQvwHnJ_G"><img src="https://github.com/user-attachments/assets/023a691a-0459-4e23-a359-d953e9833542"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1ff8FVpKfs8shEbO7glAmSF_3CZXwMsHT">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1ff8FVpKfs8shEbO7glAmSF_3CZXwMsHT">Notes</a>🚀</h3>
 
 <!-- Lecture 16 -->
 <h3> Lecture 16: Insert, Update, Delete from Referencing table DBMS</h3>
 <a href="https://youtu.be/rheuSfqgnqo?si=FB8IVUo3OgG4GXid"><img src="https://github.com/user-attachments/assets/9900651c-b239-4b8b-9551-678f6435fa9f"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1bmpR_9IWj33pviTC2l5s9RxM3Y-fRL0F">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1bmpR_9IWj33pviTC2l5s9RxM3Y-fRL0F">Notes</a>🚀</h3>
 
 <!-- Lecture 17-->
 <h3> Lecture 17: Integrity Constraints & its types in DBMS</h3>
 <a href="https://youtu.be/gQkzvkmt4Jw?si=WV9y0xsWYsen9O_P"><img src="https://github.com/user-attachments/assets/5db8c6e5-9555-44e6-963c-e2e8292c55a9"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1r3Q4lMeqVbSFlBWE35H1lKWZWFcUdMCA">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1r3Q4lMeqVbSFlBWE35H1lKWZWFcUdMCA">Notes</a>🚀</h3>
 
 <!-- Lecture 18-->
 <h3> Lecture 18: Super Key</h3>
 <a href="https://youtu.be/hGt1qDaTVfY?si=FilgsWTqPQlx5vtN"><img src="https://github.com/user-attachments/assets/9db50400-90d6-45c6-bcb4-b9a83e4f9ffd"/></a>
-<h3><a href="https://drive.google.com/drive/folders/128LskePgLJBZ6ybRpMp_ChZhJLs_kbUG">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/128LskePgLJBZ6ybRpMp_ChZhJLs_kbUG">Notes</a>🚀</h3>
 
 <!-- Lecture 19-->
 <h3> Lecture 19: ER Model</h3>
 <a href="https://youtu.be/iejgUcZpaq8?si=ASXibVyd7az1nPbV"><img src="https://github.com/user-attachments/assets/ea51e6a8-5d8d-45b0-81e4-352ae5ce605f"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1KmI8oT2GmebHN1HhsRZcoZM7N-er3HKP">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1KmI8oT2GmebHN1HhsRZcoZM7N-er3HKP">Notes</a>🚀</h3>
 
 <!-- lecture 20 -->
 <h3> Lecture 20: Entity and it types</h3>
 <a href="https://youtu.be/Dfjsu6yVn80?si=kMfVWdeqi0Ewdwql"><img src="https://github.com/user-attachments/assets/78c774c7-f627-45a8-8a5d-ba882cd7a92c"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1HoUoq3PCd7RjvivtMVYg7d0uaanPL7z4">NOtes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1HoUoq3PCd7RjvivtMVYg7d0uaanPL7z4">NOtes</a>🚀</h3>
 
 <!-- lecture 21-->
 <h3> Lecture 21: Attributes and it types</h3>
 <a href="https://youtu.be/Y-nPMQG9Nyc?si=C8XBMePmpPNDQURx"><img src="https://github.com/user-attachments/assets/b9f611c0-020e-478e-b526-fa4c6f36fb96"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1Egb1vEwG6Kyzg11asrWRl8s3XrHiQNLk">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1Egb1vEwG6Kyzg11asrWRl8s3XrHiQNLk">Notes</a>🚀</h3>
 
 <!-- lecture 22 -->
 <h3> Lecture 22: Relationship and it types</h3>
 <a href="https://youtu.be/DhOhst8FBKE?si=uvRyEAAMZtyNIiib"><img src="https://github.com/user-attachments/assets/308bc1db-eae0-4ba5-8304-b2ab3e53f833"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1fPC6Ai2dgyqTiqiYyQDtmVvHnjGFsHe9">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1fPC6Ai2dgyqTiqiYyQDtmVvHnjGFsHe9">Notes</a>🚀</h3>
 
 <!-- Lecure 23 -->
 <h3> Lecture 23: ONe to One Relatioship</h3>
 <a href="https://youtu.be/yXhiZFBwyIk?si=WxJvxPq3l5AaJrSV"><img src="https://github.com/user-attachments/assets/cacc0c14-b795-47b0-9d5f-143c82be607c"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc"></a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc"></a>🚀</h3>
 
 <!-- Lecture 24 -->
 <h3>Lecture 24: One to many Relationship</h3>
 <a href="https://youtu.be/2shjI2XauHM?si=YNYx3bcTSBgmiJwr"><img src="https://github.com/user-attachments/assets/b07df8e9-fec8-497e-8fd5-10b6da7ed86c"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a>🚀</h3>
 
 <!-- Lecture 25: -->
 <h3>Lecture 25: Many to one Realtionship</h3>
@@ -127,34 +127,53 @@
 <!-- Lecture 26: -->
 <h3>Lecture 26: many to many Realtionship</h3>
 <a href="https://youtu.be/XsWub7hcV_c?si=PtL_DH3gJO3VNIaV"><img src="https://github.com/user-attachments/assets/c23f40e7-0e55-4353-9634-6440b2f85ff6"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a>🚀</h3>
 
 <!-- Lecture 27: -->
 <h3>Lecture 27: Participation Constraints</h3>
 <a href="https://youtu.be/Y6mcrB_z0WQ?si=mb0Z5dO9HqITtJw5"><img src="https://github.com/user-attachments/assets/7440cd48-f57d-4dc1-b6be-a91feda1476f"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1NfC67XygLOX6uYWQuukktuYkkrObccwO">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1NfC67XygLOX6uYWQuukktuYkkrObccwO">Notes</a>🚀</h3>
 
 <!-- Lecture 28: -->
 <h3>Lecture 28: Extended ER Features </h3>
 <a href="https://youtu.be/cSibHgsiw54?si=hHGJQoCkLRD9TEDk"><img src="https://github.com/user-attachments/assets/3f58a6fc-e9e8-4a81-818b-e5da1d474276"/></a>
-<h3><a href="https://drive.google.com/file/d/1xTUnjEWQV34prGLxAWZL67te0xBTEMgN/view">Notes</a></h3>
+<h3><a href="https://drive.google.com/file/d/1xTUnjEWQV34prGLxAWZL67te0xBTEMgN/view">Notes</a>🚀</h3>
 
 <!-- Lecture 29: -->
 <h3>Lecture 29: Specialization</h3>
 <a href="https://youtu.be/OZrc1jQ7NfQ?si=7QD1D-6TFxEcq-vk"><img src="https://github.com/user-attachments/assets/71c99a50-7b60-4b21-b8eb-79c152bc412d"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1KrSBr0wH0Umt_9PdA0GKlSznogkTfJjK">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1KrSBr0wH0Umt_9PdA0GKlSznogkTfJjK">Notes</a>🚀</h3>
 
 <!-- Lecture 30: -->
 <h3>Lecture 30: Genaralization</h3>
 <a href="https://youtu.be/qCGv9l-HCXg?si=QZLDji2pMo8Ud8t-"><img src="https://github.com/user-attachments/assets/2d4eecf2-5637-471b-a0d2-c563273dbffc"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1KrSBr0wH0Umt_9PdA0GKlSznogkTfJjK">Notes</a></h3>
+<h3><a href="https://drive.google.com/drive/folders/1KrSBr0wH0Umt_9PdA0GKlSznogkTfJjK">Notes</a>🚀</h3>
 
 
 <!-- Lecture 31: -->
 <h3>Lecture 31: Aggregation</h3>
 <a href="https://youtu.be/9-sA5Zm8b78?si=0KP4EFPNAAssRNiiV"><img src="https://github.com/user-attachments/assets/8a6f6aca-ff32-4975-b915-daa5ba1dd602"/></a>
-<h3><a href=https://drive.google.com/drive/folders/1oEhd40F91whBPZEVAKw5O1Wg2ZfrbJop">Notes</a></h3>
+<h3><a href=https://drive.google.com/drive/folders/1oEhd40F91whBPZEVAKw5O1Wg2ZfrbJop">Notes</a>🚀</h3>
 
+<!-- LEcture 32: -->
+<h3>Lecture 32: Steps to draw an ER MOdel</h3>
+<a href="https://youtu.be/EMd3cSW8Z68?si=Xm6C74CpTvP380r4"><img src="https://github.com/user-attachments/assets/9efbf5c2-9bcb-41a6-bc60-9a36d7aa846a"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1OrEAzKQisw8UP4w7HJS-MSUGCIKon9vA">Notes</a>🚀</h3>
+
+<!-- LEcture 33: -->
+<h3>Lecture 33: Steps to draw an Instagram ER MOdel</h3>
+<a href="https://youtu.be/uxVzFV0x7YI?si=MB-kGzLF_BTaKmUj"><img src="https://github.com/user-attachments/assets/bae8e258-8969-4721-a1cf-a9e95087f40d"/></a>
+<h3><a href="https://drive.google.com/file/d/1Q44SDWWcfREmjut7LaE2HytQyvTp1--R/view">Notes</a>🚀</h3>
+
+<!-- LEcture 34: -->
+<h3>Lecture 34: Realtional Model</h3>
+<a href="https://youtu.be/ZxRQRxe16ko?si=PyadCaE2QiqoP9zc"><img src="https://github.com/user-attachments/assets/8a34d3b8-db13-4075-bdd6-08c618b7d4f0"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1quukToULhrj_xvuF1bNLEC60g59Hlwwf">NOTES</a>🚀</h3>
+
+<!-- LEcture 35: -->
+<h3>Lecture 35:  ER Model To Relational MOdel</h3>
+<a href="https://youtu.be/iKKvAN-CIPA?si=2jy71YMDv0bipqZO"><img src="https://github.com/user-attachments/assets/4cc7b237-3846-4607-8ed9-5fee8e711143"/></a>
+<h3><a href="https://drive.google.com/drive/folders/1O5ZAIzBqVv1E7W3WiZviWv-70UYIVNw_">NOTES</a>🚀</h3>
 
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
