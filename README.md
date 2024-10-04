@@ -185,7 +185,15 @@
 <a href="https://youtu.be/MFae6MaGetI?si=lyx_kb3AeUtI-ilN"><img src="https://github.com/user-attachments/assets/804230d5-636a-4852-bd7f-0e145085c1e8"/></a>
 <h3><a href="https://drive.google.com/file/d/1jXKwSYX5xwDaKQnxRhDLchf281fjxwMY/view">Notes</a>🚀</h3>
 
+<!-- LEcture 37: -->
+<h3>lecture 38: Normalization</h3>
+<a href="https://youtu.be/BA9gB2xp9bg?si=YW87lneYdHxerW3r"><img src="https://github.com/user-attachments/assets/39b00f5c-74bb-41b2-bb25-1fb5e395f226"/></a>
+<h3><a href="https://drive.google.com/file/d/1L_5SEjLGcHkFzWhWtZOM0I1q8PT1ZYIs/view">Notes</a>🚀</h3>
 
+<!-- LEcture 39: -->
+<h3>lecture 39: DeNormalization</h3>
+<a href="https://youtu.be/BA9gB2xp9bg?si=YW87lneYdHxerW3r"><img src="https://github.com/user-attachments/assets/c80d65b2-e798-41b7-a113-485dcd001774"/></a>
+<h3><a href="hhttps://drive.google.com/file/d/1GLgvieIbzKH9uZ4BAAoqCBV6luLqMoKL/view">Notes</a>🚀</h3>
 
 
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
