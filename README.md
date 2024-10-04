@@ -175,11 +175,24 @@
 <a href="https://youtu.be/iKKvAN-CIPA?si=2jy71YMDv0bipqZO"><img src="https://github.com/user-attachments/assets/4cc7b237-3846-4607-8ed9-5fee8e711143"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1O5ZAIzBqVv1E7W3WiZviWv-70UYIVNw_">NOTES</a>🚀</h3>
 
+<!--  Lecture 36: -->
+<h3>Lecture 36: Intensity and Extension</h3>
+<a href = "https://youtu.be/VFdvu6dkGVE?si=em_vEXxsbESFG_R2"><img src=""/></a>
+<h3><a href="https://drive.google.com/file/d/1yh1srud8h_oh6JO8R_hYub6ktDqZZbaN/view">Notes</a>🚀</h3>
+
+<!-- LEcture 37: -->
+<h3>Lecture 37:RDBMS</h3>
+<a href="https://youtu.be/MFae6MaGetI?si=lyx_kb3AeUtI-ilN"><img src="https://github.com/user-attachments/assets/804230d5-636a-4852-bd7f-0e145085c1e8"/></a>
+<h3><a href="https://drive.google.com/file/d/1jXKwSYX5xwDaKQnxRhDLchf281fjxwMY/view">Notes</a>🚀</h3>
+
+
+
+
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
 <a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
 <br/>
 <h3><a target="_blank" href="https://drive.google.com/file/d/1_yG_SW7zqSSGHDR8GyUpPEjwCI-NohXh/view?pli=1">Notes</a> 🚀 </h3>
-<hr/>
+
 <h3>lecture 48: Second Normal Form(2NF) | Complete DBMS Course</h3>
 <a  target="_blank" href="https://youtu.be/pxyM120Kpis?feature=shared"><img src="https://github.com/user-attachments/assets/e1171593-8f89-45b7-955d-6778a773e0dd"</a>
 <br/>
