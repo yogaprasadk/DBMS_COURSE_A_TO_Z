@@ -177,7 +177,7 @@
 
 <!--  Lecture 36: -->
 <h3>Lecture 36: Intensity and Extension</h3>
-<a href = "https://youtu.be/VFdvu6dkGVE?si=em_vEXxsbESFG_R2"><img src=""/></a>
+<a href = "https://youtu.be/VFdvu6dkGVE?si=em_vEXxsbESFG_R2"><img src="https://github.com/user-attachments/assets/4f795142-3956-46e1-914a-e83291a3e464"/></a>
 <h3><a href="https://drive.google.com/file/d/1yh1srud8h_oh6JO8R_hYub6ktDqZZbaN/view">Notes</a>🚀</h3>
 
 <!-- LEcture 37: -->
