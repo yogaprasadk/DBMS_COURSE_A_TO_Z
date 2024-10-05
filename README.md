@@ -193,7 +193,17 @@
 <!-- LEcture 39: -->
 <h3>lecture 39: DeNormalization</h3>
 <a href="https://youtu.be/BA9gB2xp9bg?si=YW87lneYdHxerW3r"><img src="https://github.com/user-attachments/assets/c80d65b2-e798-41b7-a113-485dcd001774"/></a>
-<h3><a href="hhttps://drive.google.com/file/d/1GLgvieIbzKH9uZ4BAAoqCBV6luLqMoKL/view">Notes</a>🚀</h3>
+<h3><a href="https://drive.google.com/file/d/1GLgvieIbzKH9uZ4BAAoqCBV6luLqMoKL/view">Notes</a>🚀</h3>
+
+<!-- LEcture 40: -->
+<h3>lecture 40: Functional Dependency</h3>
+<a href="https://youtu.be/vO-DLOYpJVk?si=lDDwrCl1jyeFuWdF"><img src="https://github.com/user-attachments/assets/8e510347-bc28-4b1d-bb47-3776d7bd31f9"/></a>
+<h3><a href="https://drive.google.com/file/d/1pM2lTyq7CiNWYXWW8qhO6ILR4W3raaft/view">Notes</a>🚀</h3>
+
+<!-- LEcture 41: -->
+<h3>lecture 41: Attribute Closure</h3>
+<a href="https://youtu.be/QfEasgZu-kA?si=SH2GKY2YNDuzZdYv"><img src="https://github.com/user-attachments/assets/153bcf36-75da-4060-8465-c7d2506037da"/></a>
+<h3><a href="https://drive.google.com/file/d/1xg9xkx3rRxQKeOjkFo7SvBbd1TrFJhgi/view?usp=sharing">Notes</a>🚀</h3>
 
 
 <h3>Lecture 47: First Normal Form(1NF) | Complete DBMS Course </h3>
