@@ -217,7 +217,7 @@
 
   <!-- Lecture 44 -->
 <h3>Lecture 44: First Normal Form(1NF) | Complete DBMS Course </h3>
-<a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/b4175347-cdf2-47a9-88fb-080a543f2e95"></a>
+<a href="https://youtu.be/polASaSENwE?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/3a0aaa6a-2c0b-435b-b44f-bae4c97de4f1"></a>
 <h3><a target="_blank" href="https://drive.google.com/file/d/1_yG_SW7zqSSGHDR8GyUpPEjwCI-NohXh/view?pli=1">Notes</a> 🚀 </h3>
 
 <!-- Lecture 45 -->
@@ -227,7 +227,7 @@
   
 <!-- Lecture 46 -->
 <h3>lecture 46: Third Normal Form(3NF) | Complete DBMS Course</h3>
-<a href="https://youtu.be/32mxcU7CCCY?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/858de0c6-7425-4bc6-a6bc-1e7b76663d6c"/></a>
+<a href="https://youtu.be/32mxcU7CCCY?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/698a300e-a119-491d-8ad2-4aa980c6bbc8"/></a>
 <h3><a href="https://drive.google.com/file/d/169cAF_VOGr6ZIvggQk-aKtmEBHs7J8Ov/view?usp=sharing" target="_blank">Notes</a>🚀</h3>
 
 <!-- Lecture 47 -->
