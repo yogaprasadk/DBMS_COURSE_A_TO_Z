@@ -291,7 +291,7 @@
 <h3><a href="https://drive.google.com/file/d/1PUv4nI9CxacQa5JMpe2z3pWrxdVC-GD9/view?pli=1" target="_blank">Notes</a>🚀</h3>
 
 <!-- Lecture 59 -->
-<h3>Lecture 59: Concurrent and parallel Scheduling || Complete DBMS Course</h3>
+<h3>Lecture 59: Concurrent and parallel Scheduling | Complete DBMS Course</h3>
 <a href="https://youtu.be/hHW5Gq94H3I?feature=shared"><img src="https://github.com/user-attachments/assets/8c4d31c4-dff9-4833-8c39-219a69a87d1e"/></a>
 <h3><a href="https://drive.google.com/file/d/1ShgpWwOlesSsT9d1b7moP96XZOL4XWdk/view">Notes</a>🚀</h3>
 
@@ -299,3 +299,8 @@
 <h3>Serialozability and its types</h3>
 <a href="https://youtu.be/SeCgEy8UTKo?feature=shared"><img src="https://github.com/user-attachments/assets/7038d292-5964-45ce-a146-cb74127a73ed"/></a>
 <h3><a href="https://drive.google.com/file/d/1IEdm7b2_OMko54m5Jdv1W0VWeJlV17Wg/view">Notes</a>🚀</h3>
+
+<!-- Lecture 61 -->
+<h3>Conflict - Serializability</h3>
+<a href="https://youtu.be/H0Y_QvALiLs?feature=shared"><img src="https://github.com/user-attachments/assets/a5614537-f814-4fc2-a34e-26dcd3436dda"/></a>
+<h3><a href="https://drive.google.com/file/d/1FioYtadXZZWw6fzNx7i5P6CkfX9E0HQZ/view">Notes</a>🚀</h3>
