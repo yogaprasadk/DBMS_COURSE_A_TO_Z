@@ -289,3 +289,8 @@
 <h3>Lecture 58: Isolation levels and its type | Complete DBMS Course</h3>
 <a href="https://youtu.be/8aOAgyOw420?si=YZu1bBTCEdpzMI9P" target="_blank"><img src="https://github.com/user-attachments/assets/9a389ebb-d7e5-441c-a08e-f8840b73dbc1"/></a>
 <h3><a href="https://drive.google.com/file/d/1PUv4nI9CxacQa5JMpe2z3pWrxdVC-GD9/view?pli=1" target="_blank">Notes</a>🚀</h3>
+
+<-- Lecture 59 -->
+<h3>Lecture 59: Concurrent and parallel Scheduling || Complete DBMS Course</h3>
+<a href="https://youtu.be/hHW5Gq94H3I?feature=shared"><img src="https://github.com/user-attachments/assets/8c4d31c4-dff9-4833-8c39-219a69a87d1e"/></a>
+<h3><a href="https://drive.google.com/file/d/1ShgpWwOlesSsT9d1b7moP96XZOL4XWdk/view">Notes</a>🚀</h3>
