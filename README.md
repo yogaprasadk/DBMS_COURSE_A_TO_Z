@@ -296,12 +296,12 @@
 <h3><a href="https://drive.google.com/file/d/1ShgpWwOlesSsT9d1b7moP96XZOL4XWdk/view">Notes</a>🚀</h3>
 
 <!-- Lecture 60 -->
-<h3>Serializability and its types</h3>
+<h3>Lecture 60:Serializability and its types</h3>
 <a href="https://youtu.be/SeCgEy8UTKo?feature=shared"><img src="https://github.com/user-attachments/assets/7038d292-5964-45ce-a146-cb74127a73ed"/></a>
 <h3><a href="https://drive.google.com/file/d/1IEdm7b2_OMko54m5Jdv1W0VWeJlV17Wg/view">Notes</a>🚀</h3>
 
 <!-- Lecture 61 -->
-<h3>Conflict - Serializability</h3>
+<h3>Lecture 61:Conflict - Serializability</h3>
 <a href="https://youtu.be/H0Y_QvALiLs?feature=shared"><img src="https://github.com/user-attachments/assets/a5614537-f814-4fc2-a34e-26dcd3436dda"/></a>
 <h3><a href="https://drive.google.com/file/d/1FioYtadXZZWw6fzNx7i5P6CkfX9E0HQZ/view">Notes</a>🚀</h3>
 
@@ -311,6 +311,6 @@
 <h3><a href="https://drive.google.com/file/d/1fgKtZzuOg4sDd55fWXSBiNjQmhkaMZqa/view?usp=sharing">Notes</a>🚀</h3>
 
 <!-- Lecture 63 -->
-<h3> View Serializability </h3>
+<h3>Lecture 63: View Serializability </h3>
 <a href="https://youtu.be/_EdfR-Hy89k?feature=shared"><img src="https://github.com/user-attachments/assets/99852ccf-a10c-4428-87fd-2fee948a09e4"/></a>
 <h3><a href="https://drive.google.com/file/d/1SHL2mp-8nmg7Lx0UIzV53K_sy64uhsGj/view?usp=sharing">Notes</a>🚀</h3>
