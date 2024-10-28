@@ -314,3 +314,13 @@
 <h3>Lecture 63: View Serializability </h3>
 <a href="https://youtu.be/_EdfR-Hy89k?feature=shared"><img src="https://github.com/user-attachments/assets/99852ccf-a10c-4428-87fd-2fee948a09e4"/></a>
 <h3><a href="https://drive.google.com/file/d/1SHL2mp-8nmg7Lx0UIzV53K_sy64uhsGj/view?usp=sharing">Notes</a>🚀</h3>
+
+<!-- Lecture 64 -->
+<h3>Lecture 64: Why do we need concurrency control mechanism</h3>
+<a href="https://www.youtube.com/watch?v=jvv1kvnDemA"><img src="https://github.com/user-attachments/assets/5abe36cb-281b-4917-9c8a-00a42bd1f003"/></a>
+<h3><a href="https://drive.google.com/file/d/1PJrpyryTmnduDMblwpC4hT2jw3vtY48I/view?usp=sharing">Notes</a>🚀</h3>
+
+<!-- Lecture 65 -->
+<h3>Lecture 65: Database Recovery Management</h3>
+<a href="https://www.youtube.com/watch?v=1pSxXwy0qiE"><img src="https://github.com/user-attachments/assets/dba23259-31db-42ed-b585-a89fb4030b36"/></a>
+<h3><a href="https://drive.google.com/file/d/1OWTcrL-0D_FDWL6FYmg0BF2sztYvNm34/view">NOtes</a>🚀</h3>
