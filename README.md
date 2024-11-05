@@ -321,6 +321,51 @@
 <h3><a href="https://drive.google.com/file/d/1PJrpyryTmnduDMblwpC4hT2jw3vtY48I/view?usp=sharing">Notes</a>🚀</h3>
 
 <!-- Lecture 65 -->
-<h3>Lecture 65: Database Recovery Management</h3>
+<h3>Lecture 65: Concurrency control mechanisms  2PL | Lock-based | Time-Stamp based</h3>
+<a href="https://youtu.be/msXIZz5UFXo?si=Pq2iTeh9Ks9QPakc"><img src="https://github.com/user-attachments/assets/fc821392-8e43-408e-a7b8-b8325c38260b"/></a>
+<h3><a href="https://drive.google.com/file/d/10aCSUyXa3xxS7fQ1wYRCnaKwjLIjsCc9/view?usp=sharing">Notes</a>🚀</h3>
+
+<!-- Lecture 66 -->
+<h3>Lecture 66: Database Recovery Management</h3>
 <a href="https://www.youtube.com/watch?v=1pSxXwy0qiE"><img src="https://github.com/user-attachments/assets/dba23259-31db-42ed-b585-a89fb4030b36"/></a>
 <h3><a href="https://drive.google.com/file/d/1OWTcrL-0D_FDWL6FYmg0BF2sztYvNm34/view">NOtes</a>🚀</h3>
+
+<!-- Lecture 67 -->
+<h3>Lecture 67: Techniques for optimizing SQL queries and File organization </h3>
+<a href="https://www.youtube.com/watch?v=p5jGmXbYcQA"><img src="https://github.com/user-attachments/assets/e291391e-88ef-4109-9e5c-de7f27848823"/></a>
+<h3><a href="https://drive.google.com/file/d/1yD-pwJcGZhOlgN_MpSlblvSBrc-eIc1a/view">Notes</a>🚀</h3>
+
+<!-- Lecture 68 -->
+<h3>Lecture 68: Indexing and its types </h3>
+<a href="https://youtu.be/A2hEyCc2QUY?si=RKOnuZUMNa9BzDCM"><img src="https://github.com/user-attachments/assets/2d218c88-778f-4468-aa3f-6279f8d7affa"/></a>
+<h3><a href="https://drive.google.com/file/d/1dpOKYyH2iLnBTxbs6eW0aelJ7OPeigzu/view?usp=sharing">Notes</a>🚀</h3>
+
+<!-- Lecture 69 -->
+<h3>Lecture 69: B and B+ Trees </h3>
+<a href="https://www.youtube.com/watch?v=spTiUaTSh-4"><img src="https://github.com/user-attachments/assets/1c0f595e-b0f4-41e8-a421-ae6c5a1e9405"/></a>
+<h3><a href="https://drive.google.com/file/d/1A_eByNFfdlBOpsHcNh3-T34CpteG7I8Z/view?usp=sharing">Notes</a>🚀</h3>
+
+<!-- Lecture 70 -->
+<h3>Lecture 70: Difference between B and B+ Trees </h3>
+<a href="https://youtu.be/xmCqrt4zLTk?si=d1x1HuB5l_Wtl3-b"><img src="https://github.com/user-attachments/assets/9c3303de-83f0-4b3b-b0be-8a5fa3bc13a0"/></a>
+<h3><a href="https://drive.google.com/file/d/1JOxobxReyRaWU7ZLESEe21lTHHSZ3Vpy/view">Notes</a>🚀</h3>
+
+<!-- Lecture 71 -->
+<h3>Lecture 71:  Scaling in Databases </h3>
+<a href="https://www.youtube.com/watch?v=NjfvoTiWwoo"><img src="https://github.com/user-attachments/assets/98341da0-8730-4c67-ab69-5225efafdfc9"/></a>
+<h3><a href="https://drive.google.com/file/d/1EfhftmY_47FBRl96yD2Zf93qyrhEgIXS/view">Notes</a>🚀</h3>
+
+<!-- Lecture 72 -->
+<h3>Lecture 72: RBAC (Role Based Access Control) </h3>
+<a href="https://www.youtube.com/watch?v=1-QvahOQAgo"><img src="https://github.com/user-attachments/assets/364a17c3-1bb9-4ea7-9ce4-a2098bfd331b"/></a>
+<h3><a href="https://drive.google.com/file/d/1Za1jRxgDpzrLrQGb0JJdP3YFCCAklALe/view?usp=sharing">Notes</a>🚀</h3>
+
+<!-- Lecture 73 -->
+<h3>Lecture 73: Techniques for optimizing SQL queries and File organization </h3>
+<a href="https://www.youtube.com/watch?v=j0Q7CMK2kHw"><img src="https://github.com/user-attachments/assets/a663f2ff-a918-4a27-9096-012027a404ca"/></a>
+<h3><a href="https://drive.google.com/file/d/1HMZ6bo3IHmdQkpdYBzcyVZPyvynsYrPk/view">Notes</a>🚀</h3>
+
+<!-- Lecture 74 -->
+<h3>Lecture 74: Techniques for optimizing SQL queries and File organization </h3>
+<a href="https://www.youtube.com/watch?v=r3BZLgjKoyQ"><img src="https://github.com/user-attachments/assets/f5971f0b-4392-4f53-a61c-360ee7c126c3"/></a>
+<h3><a href="https://drive.google.com/file/d/1GpIX0aJLCJgWWpKV_lqjdTxsTP9dk-Br/view">Notes</a>🚀</h3>
