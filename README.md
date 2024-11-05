@@ -270,101 +270,106 @@
 <h3><a href="https://drive.google.com/file/d/1LWM6uD3goJyxvMvWhw6z3RqM7Vcjgc_N/view" target="_blank">Notes</a>🚀</h3>
 
 <!-- Lecture 55 -->
-<h3>Lecture 55: How to find the highest Normal Form | Complete DBMS Course</h3>
-<a href="https://youtu.be/hPVcgn9IbyE?si=XY0b3lCGKLtrQWRQ" target="_blank"><img src="https://github.com/user-attachments/assets/de6008df-1387-4400-882a-891ab23da271"/></a>
+<h3> Lecture 55: Minimal set  of Functional Dependency | Complete DBMS Course</h3>
+<a href="https://youtu.be/hPVcgn9IbyE?si=cvXDLV41iCx0ntc1" target="_blank"><img src="https://github.com/user-attachments/assets/33a399b4-5f14-4acf-8082-17b9c3afb0b0"/></a>
 <h3><a href="https://drive.google.com/file/d/1G8D-c4Nucrj1oMpCKOWx5Gw51A_jTVI1/view" target="_blank">Notes</a>🚀</h3>
 
 <!-- Lecture 56 -->
-<h3>Lecture 56: Transaction and Concurrency Control | Complete DBMS Course</h3>
+<h3>Lecture 56: How to find the highest Normal Form | Complete DBMS Course</h3>
+<a href="https://youtu.be/hPVcgn9IbyE?si=XY0b3lCGKLtrQWRQ" target="_blank"><img src="https://github.com/user-attachments/assets/de6008df-1387-4400-882a-891ab23da271"/></a>
+<h3><a href="https://drive.google.com/file/d/1G8D-c4Nucrj1oMpCKOWx5Gw51A_jTVI1/view" target="_blank">Notes</a>🚀</h3>
+
+<!-- Lecture 57 -->
+<h3>Lecture 57: Transaction and Concurrency Control | Complete DBMS Course</h3>
 <a href="https://youtu.be/jj0wNVZFrjc?si=8tF2xVZbQnFySx_i" target="_blank"><img src="https://github.com/user-attachments/assets/2ffcc67a-cf26-4de6-8f5f-0b9c46a0551a"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1AA8f1iYXv3toOEX7hvypWXVMt0ubjDxe" target="_blank">Notes</a>🚀</h3>
 
-<!-- Lecture 57-->
-<h3>Lecture 57: ACID Properties | Complete DBMS Course</h3>
+<!-- Lecture 58-->
+<h3>Lecture 58: ACID Properties | Complete DBMS Course</h3>
 <a href="https://youtu.be/V-1lY1JWhcY?si=PNxuczrANs5j_jHq" target="_blank"><img src="https://github.com/user-attachments/assets/c706167f-a577-4cf1-bbf1-005e45afde30"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1-D_My9AA6D2m3otA7gMrCRgJoQvvt2DW" target="_blank">Notes</a>🚀</h3>
 
-<!-- Lecture 58 -->
-<h3>Lecture 58: Isolation levels and its type | Complete DBMS Course</h3>
+<!-- Lecture 59 -->
+<h3>Lecture 59: Isolation levels and its type | Complete DBMS Course</h3>
 <a href="https://youtu.be/8aOAgyOw420?si=YZu1bBTCEdpzMI9P" target="_blank"><img src="https://github.com/user-attachments/assets/9a389ebb-d7e5-441c-a08e-f8840b73dbc1"/></a>
 <h3><a href="https://drive.google.com/file/d/1PUv4nI9CxacQa5JMpe2z3pWrxdVC-GD9/view?pli=1" target="_blank">Notes</a>🚀</h3>
 
-<!-- Lecture 59 -->
-<h3>Lecture 59: Concurrent and parallel Scheduling | Complete DBMS Course</h3>
+<!-- Lecture 60 -->
+<h3>Lecture 60: Concurrent and parallel Scheduling | Complete DBMS Course</h3>
 <a href="https://youtu.be/hHW5Gq94H3I?feature=shared"><img src="https://github.com/user-attachments/assets/8c4d31c4-dff9-4833-8c39-219a69a87d1e"/></a>
 <h3><a href="https://drive.google.com/file/d/1ShgpWwOlesSsT9d1b7moP96XZOL4XWdk/view">Notes</a>🚀</h3>
 
-<!-- Lecture 60 -->
-<h3>Lecture 60:Serializability and its types</h3>
+<!-- Lecture 61 -->
+<h3>Lecture 61:Serializability and its types</h3>
 <a href="https://youtu.be/SeCgEy8UTKo?feature=shared"><img src="https://github.com/user-attachments/assets/7038d292-5964-45ce-a146-cb74127a73ed"/></a>
 <h3><a href="https://drive.google.com/file/d/1IEdm7b2_OMko54m5Jdv1W0VWeJlV17Wg/view">Notes</a>🚀</h3>
 
-<!-- Lecture 61 -->
-<h3>Lecture 61:Conflict - Serializability</h3>
+<!-- Lecture 62 -->
+<h3>Lecture 62:Conflict - Serializability</h3>
 <a href="https://youtu.be/H0Y_QvALiLs?feature=shared"><img src="https://github.com/user-attachments/assets/a5614537-f814-4fc2-a34e-26dcd3436dda"/></a>
 <h3><a href="https://drive.google.com/file/d/1FioYtadXZZWw6fzNx7i5P6CkfX9E0HQZ/view">Notes</a>🚀</h3>
 
-<!-- Lecture 62 -->
-<h3>Lecture 62: Scheduling and its types</h3>
+<!-- Lecture 63 -->
+<h3>Lecture 63: Scheduling and its types</h3>
 <a href="https://youtu.be/upPtgE9UkB8?feature=shared"><img src="https://github.com/user-attachments/assets/b5f05761-7d4d-4229-b7cb-88396fee91e0"/></a>
 <h3><a href="https://drive.google.com/file/d/1fgKtZzuOg4sDd55fWXSBiNjQmhkaMZqa/view?usp=sharing">Notes</a>🚀</h3>
 
-<!-- Lecture 63 -->
-<h3>Lecture 63: View Serializability </h3>
+<!-- Lecture 64 -->
+<h3>Lecture 64: View Serializability </h3>
 <a href="https://youtu.be/_EdfR-Hy89k?feature=shared"><img src="https://github.com/user-attachments/assets/99852ccf-a10c-4428-87fd-2fee948a09e4"/></a>
 <h3><a href="https://drive.google.com/file/d/1SHL2mp-8nmg7Lx0UIzV53K_sy64uhsGj/view?usp=sharing">Notes</a>🚀</h3>
 
-<!-- Lecture 64 -->
-<h3>Lecture 64: Why do we need concurrency control mechanism</h3>
+<!-- Lecture 65 -->
+<h3>Lecture 65: Why do we need concurrency control mechanism</h3>
 <a href="https://www.youtube.com/watch?v=jvv1kvnDemA"><img src="https://github.com/user-attachments/assets/5abe36cb-281b-4917-9c8a-00a42bd1f003"/></a>
 <h3><a href="https://drive.google.com/file/d/1PJrpyryTmnduDMblwpC4hT2jw3vtY48I/view?usp=sharing">Notes</a>🚀</h3>
 
-<!-- Lecture 65 -->
-<h3>Lecture 65: Concurrency control mechanisms  2PL | Lock-based | Time-Stamp based</h3>
+<!-- Lecture 66 -->
+<h3>Lecture 66: Concurrency control mechanisms  2PL | Lock-based | Time-Stamp based</h3>
 <a href="https://youtu.be/msXIZz5UFXo?si=Pq2iTeh9Ks9QPakc"><img src="https://github.com/user-attachments/assets/fc821392-8e43-408e-a7b8-b8325c38260b"/></a>
 <h3><a href="https://drive.google.com/file/d/10aCSUyXa3xxS7fQ1wYRCnaKwjLIjsCc9/view?usp=sharing">Notes</a>🚀</h3>
 
-<!-- Lecture 66 -->
-<h3>Lecture 66: Database Recovery Management</h3>
+<!-- Lecture 67 -->
+<h3>Lecture 67: Database Recovery Management</h3>
 <a href="https://www.youtube.com/watch?v=1pSxXwy0qiE"><img src="https://github.com/user-attachments/assets/dba23259-31db-42ed-b585-a89fb4030b36"/></a>
 <h3><a href="https://drive.google.com/file/d/1OWTcrL-0D_FDWL6FYmg0BF2sztYvNm34/view">NOtes</a>🚀</h3>
 
-<!-- Lecture 67 -->
-<h3>Lecture 67: Techniques for optimizing SQL queries and File organization </h3>
+<!-- Lecture 68 -->
+<h3>Lecture 68: Techniques for optimizing SQL queries and File organization </h3>
 <a href="https://www.youtube.com/watch?v=p5jGmXbYcQA"><img src="https://github.com/user-attachments/assets/e291391e-88ef-4109-9e5c-de7f27848823"/></a>
 <h3><a href="https://drive.google.com/file/d/1yD-pwJcGZhOlgN_MpSlblvSBrc-eIc1a/view">Notes</a>🚀</h3>
 
-<!-- Lecture 68 -->
-<h3>Lecture 68: Indexing and its types </h3>
+<!-- Lecture 69 -->
+<h3>Lecture 69: Indexing and its types </h3>
 <a href="https://youtu.be/A2hEyCc2QUY?si=RKOnuZUMNa9BzDCM"><img src="https://github.com/user-attachments/assets/2d218c88-778f-4468-aa3f-6279f8d7affa"/></a>
 <h3><a href="https://drive.google.com/file/d/1dpOKYyH2iLnBTxbs6eW0aelJ7OPeigzu/view?usp=sharing">Notes</a>🚀</h3>
 
-<!-- Lecture 69 -->
-<h3>Lecture 69: B and B+ Trees </h3>
+<!-- Lecture 70 -->
+<h3>Lecture 70: B and B+ Trees </h3>
 <a href="https://www.youtube.com/watch?v=spTiUaTSh-4"><img src="https://github.com/user-attachments/assets/1c0f595e-b0f4-41e8-a421-ae6c5a1e9405"/></a>
 <h3><a href="https://drive.google.com/file/d/1A_eByNFfdlBOpsHcNh3-T34CpteG7I8Z/view?usp=sharing">Notes</a>🚀</h3>
 
-<!-- Lecture 70 -->
-<h3>Lecture 70: Difference between B and B+ Trees </h3>
+<!-- Lecture 71 -->
+<h3>Lecture 71: Difference between B and B+ Trees </h3>
 <a href="https://youtu.be/xmCqrt4zLTk?si=d1x1HuB5l_Wtl3-b"><img src="https://github.com/user-attachments/assets/9c3303de-83f0-4b3b-b0be-8a5fa3bc13a0"/></a>
 <h3><a href="https://drive.google.com/file/d/1JOxobxReyRaWU7ZLESEe21lTHHSZ3Vpy/view">Notes</a>🚀</h3>
 
-<!-- Lecture 71 -->
-<h3>Lecture 71:  Scaling in Databases </h3>
+<!-- Lecture 72 -->
+<h3>Lecture 72:  Scaling in Databases </h3>
 <a href="https://www.youtube.com/watch?v=NjfvoTiWwoo"><img src="https://github.com/user-attachments/assets/98341da0-8730-4c67-ab69-5225efafdfc9"/></a>
 <h3><a href="https://drive.google.com/file/d/1EfhftmY_47FBRl96yD2Zf93qyrhEgIXS/view">Notes</a>🚀</h3>
 
-<!-- Lecture 72 -->
-<h3>Lecture 72: RBAC (Role Based Access Control) </h3>
+<!-- Lecture 73 -->
+<h3>Lecture 73: RBAC (Role Based Access Control) </h3>
 <a href="https://www.youtube.com/watch?v=1-QvahOQAgo"><img src="https://github.com/user-attachments/assets/364a17c3-1bb9-4ea7-9ce4-a2098bfd331b"/></a>
 <h3><a href="https://drive.google.com/file/d/1Za1jRxgDpzrLrQGb0JJdP3YFCCAklALe/view?usp=sharing">Notes</a>🚀</h3>
 
-<!-- Lecture 73 -->
-<h3>Lecture 73: Encryption</h3>
+<!-- Lecture 74 -->
+<h3>Lecture 74: Encryption</h3>
 <a href="https://www.youtube.com/watch?v=j0Q7CMK2kHw"><img src="https://github.com/user-attachments/assets/a663f2ff-a918-4a27-9096-012027a404ca"/></a>
 <h3><a href="https://drive.google.com/file/d/1HMZ6bo3IHmdQkpdYBzcyVZPyvynsYrPk/view">Notes</a>🚀</h3>
 
-<!-- Lecture 74 -->
-<h3>Lecture 74: Data Masking Techniques </h3>
+<!-- Lecture 75 -->
+<h3>Lecture 75: Data Masking Techniques </h3>
 <a href="https://www.youtube.com/watch?v=r3BZLgjKoyQ"><img src="https://github.com/user-attachments/assets/f5971f0b-4392-4f53-a61c-360ee7c126c3"/></a>
 <h3><a href="https://drive.google.com/file/d/1GpIX0aJLCJgWWpKV_lqjdTxsTP9dk-Br/view">Notes</a>🚀</h3>
