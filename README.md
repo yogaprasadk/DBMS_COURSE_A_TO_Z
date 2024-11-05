@@ -36,7 +36,7 @@
 
 <!-- lecture 8 -->
 <h3>Lecture 8: 3-Tier Architecture </h3>
-<a href="https://youtu.be/UOyA8TSE7l4?si=442zNgKFIecAam6l"><img src="https://github.com/user-attachments/assets/799ffa36-ccb0-41c6-a0b0-946e1c29eb5b"></a>
+<a href="https://youtu.be/UOyA8TSE7l4?si=442zNgKFIecAam6l"><img src="https://github.com/user-attachments/assets/d589d727-fabd-4383-96ce-b050ed640ba9"></a>
 <h3><a href="https://drive.google.com/drive/folders/1drz-YiEHi9S7h_RWgCadHkNIF3ITpZIp" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 9 -->
@@ -51,7 +51,7 @@
 
 <!-- Lecture 11 -->
 <h3>Lecture 11: Essential Components of table | Complete DBMS Course</h3>
-<a href="https://youtu.be/tzcK1wWQKlU?si=awbntZpZIoa0K6ge"><img src="https://github.com/user-attachments/assets/0cd40f82-fb6e-424a-96b8-1b565b715f9b"/></a>
+<a href="https://youtu.be/tzcK1wWQKlU?si=awbntZpZIoa0K6ge"><img src="https://github.com/user-attachments/assets/6a7c3d43-5181-408e-8a72-e4552ba910b9"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1zEnfEdVp-0SU4WvyFDC4nV6ha6enWQzL" target="_blank">Notes</a>🚀</h3>
 
 <!-- lecture 12-->
@@ -112,7 +112,7 @@
 <!-- Lecure 23 -->
 <h3> Lecture 23: ONe to One Relatioship</h3>
 <a href="https://youtu.be/yXhiZFBwyIk?si=WxJvxPq3l5AaJrSV"><img src="https://github.com/user-attachments/assets/cacc0c14-b795-47b0-9d5f-143c82be607c"/></a>
-<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc"></a>🚀</h3>
+<h3><a href="https://drive.google.com/drive/folders/1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc">Notes</a>🚀</h3>
 
 <!-- Lecture 24 -->
 <h3>Lecture 24: One to many Relationship</h3>
@@ -149,7 +149,6 @@
 <a href="https://youtu.be/qCGv9l-HCXg?si=QZLDji2pMo8Ud8t-"><img src="https://github.com/user-attachments/assets/2d4eecf2-5637-471b-a0d2-c563273dbffc"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1KrSBr0wH0Umt_9PdA0GKlSznogkTfJjK">Notes</a>🚀</h3>
 
-
 <!-- Lecture 31: -->
 <h3>Lecture 31: Aggregation</h3>
 <a href="https://youtu.be/9-sA5Zm8b78?si=0KP4EFPNAAssRNiiV"><img src="https://github.com/user-attachments/assets/8a6f6aca-ff32-4975-b915-daa5ba1dd602"/></a>
@@ -166,7 +165,7 @@
 <h3><a href="https://drive.google.com/file/d/1Q44SDWWcfREmjut7LaE2HytQyvTp1--R/view">Notes</a>🚀</h3>
 
 <!-- LEcture 34: -->
-<h3>Lecture 34: Realtional Model</h3>
+<h3>Lecture 34: Relational Model</h3>
 <a href="https://youtu.be/ZxRQRxe16ko?si=PyadCaE2QiqoP9zc"><img src="https://github.com/user-attachments/assets/8a34d3b8-db13-4075-bdd6-08c618b7d4f0"/></a>
 <h3><a href="https://drive.google.com/drive/folders/1quukToULhrj_xvuF1bNLEC60g59Hlwwf">NOTES</a>🚀</h3>
 
