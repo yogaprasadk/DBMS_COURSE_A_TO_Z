@@ -360,11 +360,11 @@
 <h3><a href="https://drive.google.com/file/d/1Za1jRxgDpzrLrQGb0JJdP3YFCCAklALe/view?usp=sharing">Notes</a>🚀</h3>
 
 <!-- Lecture 73 -->
-<h3>Lecture 73: Techniques for optimizing SQL queries and File organization </h3>
+<h3>Lecture 73: Encryption</h3>
 <a href="https://www.youtube.com/watch?v=j0Q7CMK2kHw"><img src="https://github.com/user-attachments/assets/a663f2ff-a918-4a27-9096-012027a404ca"/></a>
 <h3><a href="https://drive.google.com/file/d/1HMZ6bo3IHmdQkpdYBzcyVZPyvynsYrPk/view">Notes</a>🚀</h3>
 
 <!-- Lecture 74 -->
-<h3>Lecture 74: Techniques for optimizing SQL queries and File organization </h3>
+<h3>Lecture 74: Data Masking Techniques </h3>
 <a href="https://www.youtube.com/watch?v=r3BZLgjKoyQ"><img src="https://github.com/user-attachments/assets/f5971f0b-4392-4f53-a61c-360ee7c126c3"/></a>
 <h3><a href="https://drive.google.com/file/d/1GpIX0aJLCJgWWpKV_lqjdTxsTP9dk-Br/view">Notes</a>🚀</h3>
